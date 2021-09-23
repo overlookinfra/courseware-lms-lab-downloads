@@ -1,4 +1,4 @@
-class profile::sample_app::windows {
+class profile::java_app::windows {
 
   $app_base = 'C:/app'
   $java_path = 'C:/Program Files (x86)/Common Files/Oracle/Java/javapath/java.exe'

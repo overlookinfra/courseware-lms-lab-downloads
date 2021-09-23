@@ -1,4 +1,4 @@
-class profile::sample_app::linux {
+class profile::java_app::linux {
 
   $app_base = '/app'
   $app_location = "${app_base}/puppet_webapp.jar"
